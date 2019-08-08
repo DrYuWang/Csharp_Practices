@@ -1,0 +1,7 @@
+D:\codes\C#\Csharp_Practices\Practices_Classes_July_07_2019\Practices_Classes_July_07_2019\obj\Debug\Practices_Classes_July_07_2019.csprojAssemblyReference.cache
+D:\codes\C#\Csharp_Practices\Practices_Classes_July_07_2019\Practices_Classes_July_07_2019\obj\Debug\Practices_Classes_July_07_2019.csproj.CoreCompileInputs.cache
+D:\codes\C#\Csharp_Practices\Practices_Classes_July_07_2019\Practices_Classes_July_07_2019\bin\Debug\Practices_Classes_July_07_2019.exe.config
+D:\codes\C#\Csharp_Practices\Practices_Classes_July_07_2019\Practices_Classes_July_07_2019\bin\Debug\Practices_Classes_July_07_2019.exe
+D:\codes\C#\Csharp_Practices\Practices_Classes_July_07_2019\Practices_Classes_July_07_2019\bin\Debug\Practices_Classes_July_07_2019.pdb
+D:\codes\C#\Csharp_Practices\Practices_Classes_July_07_2019\Practices_Classes_July_07_2019\obj\Debug\Practices_Classes_July_07_2019.exe
+D:\codes\C#\Csharp_Practices\Practices_Classes_July_07_2019\Practices_Classes_July_07_2019\obj\Debug\Practices_Classes_July_07_2019.pdb
