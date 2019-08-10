@@ -21,12 +21,26 @@ namespace Practices_Classes_July_07_2019
         {
             Console.WriteLine("bark!");
         }
-        public void draw()
+        public void draw(string name)
         {
             Console.WriteLine($"The {name} is drawn on the window");
         }
-        
+
     }
+
+    //// Using constructor 
+    //public class Car
+    //{
+    //    public string color;
+    //    public Car(string c)
+    //        {
+    //         color = c;
+    //        }
+
+
+    //}
+
+    
     class Program
     {
 
@@ -36,13 +50,15 @@ namespace Practices_Classes_July_07_2019
             Peach.name = "Peach";
             Peach.breed = "Poodle";
             Peach.bark();
-            Peach.draw();
+            Peach.draw("adult");
             Dog Honey = new Dog();
             Honey.name = "Honey";
             Honey.breed = "Labrador";
             Honey.bark();
-            Honey.draw();
+            Honey.draw("baby");
         
         }
+
+      
     }
 }
